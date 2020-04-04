@@ -1,2 +1,4 @@
 # Aili-bug
-Ou  Huang
+  Hello
+  I am White Aili (Aeiou)
+  Nice to meet you.
